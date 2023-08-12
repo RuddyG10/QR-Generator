@@ -1,0 +1,16 @@
+{
+  "name": "qr_generator",
+  "version": "1.0.0",
+  "description": "Packages for a qr generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruddy Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.10",
+    "qr-image": "^3.2.0"
+  }
+}
